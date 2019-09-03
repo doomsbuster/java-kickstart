@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc4e30a1-5c78-4c10-b8e0-f1448e76f185" name="Default Changelist" comment="" />
+    <list default="true" id="cc4e30a1-5c78-4c10-b8e0-f1448e76f185" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cs570.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/cs570.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs570.iws" beforeDir="false" afterPath="$PROJECT_DIR$/cs570.iws" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,9 @@
         <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -172,11 +178,22 @@
       <updated>1567441767985</updated>
       <workItem from="1567441771229" duration="4157000" />
       <workItem from="1567452773331" duration="10000" />
-      <workItem from="1567452785676" duration="4801000" />
+      <workItem from="1567452785676" duration="4932000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
